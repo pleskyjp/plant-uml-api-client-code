@@ -8,3 +8,5 @@ I have implemented this solution for my needs, because code from their site does
   
 4) Use compress function to generate compressed URL for API call to plant UML server from input
 
+You can change compress function return URL string to your needs
+
