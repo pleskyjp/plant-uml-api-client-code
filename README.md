@@ -4,11 +4,7 @@ I have implemented this solution for my needs, because code from their site does
 
 1) Install some deflate capable npm library
 
-2) Get input data like:
-
-@startuml
-Bob -> Alice : hello
-@enduml
+2) Get input data like: @startuml Bob -> Alice : hello @enduml
   
 4) Use compress function to generate compressed URL for API call to plant UML server from input
 
